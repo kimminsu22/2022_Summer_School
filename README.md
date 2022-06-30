@@ -55,25 +55,7 @@ class Car {
 	}
 }
 </code>
-</pre>
-
-4.1
----
-import React from 'react';
-
-function MyComponent(props) {
-
-	if (props.isBar) {
-
-		return <div>Bar</div>;
-
-	}
-
-	return <div>Foo</div>;
-
-	}
-export default MyComponent;    
-```
+</pre>    
 
 5. draw line
 -------------
