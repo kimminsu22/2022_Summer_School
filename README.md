@@ -27,8 +27,8 @@
    
 	- 글머리 기호 : *,+,- 사용
 * Blue     
- * Green     
-  * Red     
+	* Green     
+		* Red     
 + Blue        
  + Green       
   + Red      
