@@ -30,8 +30,29 @@
 	* Green     
 		* Red     
 + Blue        
- + Green       
-  + Red      
+	+ Green       
+		+ Red      
 - Blue     
- - Green        
-  - Red       
+	- Green        
+		- Red       
+
+4. 소스코드 테스트
+--------------------
+<pre>
+<code>
+class Car {
+	private String modelName;
+	private int modelYear;
+	private String color;
+	private int maxSpeed;
+	private int currentSpeed;
+	Car(String modelName, int modelYear, String color, int maxSpeed) {
+		this.modelName = modelName;
+		this.modelYear = modelYear;
+		this.color = color;
+		this.maxSpeed = maxSpeed;
+		this.currentSpeed = 0;
+	}
+}
+</code>
+</pre>
