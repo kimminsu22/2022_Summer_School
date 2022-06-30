@@ -56,13 +56,34 @@ class Car {
 }
 </code>
 </pre>
-# 4.1
+4.1
+---
 import React from 'react';
-	function MyComponent(props) {
-		if (props.isBar) {
-			return <div>Bar</div>;
-		}
-	return <div>Foo</div>;
+
+function MyComponent(props) {
+
+	if (props.isBar) {
+
+		return <div>Bar</div>;
+
 	}
-	export default MyComponent;
-	```
+
+	return <div>Foo</div>;
+
+	}
+
+export default MyComponent;
+```
+5. draw line
+-------------
+* * *
+***
+*****
+- - -
+----------------
+
+6. Link
+-------
+Google Link: [google][googlelink]
+
+[googlelink]: https://www.google.com/ "google"
