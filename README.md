@@ -17,22 +17,20 @@
 3. List
 ------
 *순서가 있는 목록
-1. 첫번째 목록
+1. 첫번째 목록 
 	- 순서가 없는 목록
 	- 순서가 없는 목록
 1. 두번째 목록
 1. 세번째 목록
 
-*순서가 없는 목록
+*순서가 없는 목록 
 	- 글머리 기호 : *,+,- 사용
-* Blue
- * Green-1
-   *Red -1
-   *Red -2
- * Red
-+ Blue
- + Green
-  + Red
-- Blue
- - Green
-  - Red
+* Blue 
+ * Green-1 
+  * Red
++ Blue 
+ + Green 
+  + Red 
+- Blue 
+ - Green 
+  - Red 
