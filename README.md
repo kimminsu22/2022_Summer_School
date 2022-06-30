@@ -72,7 +72,7 @@ function MyComponent(props) {
 	return <div>Foo</div>;
 
 	}
-export default MyComponent;
+export default MyComponent;    
 ```
 
 5. draw line
@@ -85,16 +85,16 @@ export default MyComponent;
 
 - - -
 
-----------------
+----------------    
 
 
 6. Link
 -------
 Google Link: [google][googlelink]
 
-[googlelink]: https://www.google.com/ "google"
+[googlelink]: https://www.google.com/ "google"    
 
 
 6.1 link
 
-google homepage : https://www.google.com/
+google homepage : https://www.google.com/     
