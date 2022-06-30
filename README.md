@@ -26,20 +26,20 @@
 *순서가 없는 목록 
    
 	- 글머리 기호 : *,+,- 사용
-* Blue 
+* Blue     
 
- * Green
+ * Green     
 
-  * Red
+  * Red     
 
-+ Blue 
++ Blue      
      
- + Green 
+ + Green       
 
-  + Red 
+  + Red      
 
-- Blue 
+- Blue     
 
- - Green 
+ - Green        
 
-  - Red 
+  - Red       
