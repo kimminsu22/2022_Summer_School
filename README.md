@@ -81,11 +81,23 @@ Google Link: [google][googlelink]
 
 - google homepage : https://www.google.com/     
 
+
 7. 강조
+
 이텔릭체 *별표(asterisks)* 혹은 _언더바(underscore)_를 사용    
 
 두껍게는 ** 별표(asterisks)* 혹은 __언더바(underscore)__를 사용    
 
 **_이텔릭체_와 두껍게**를 같이 사용할 수 있음    
 
-취소선은 ~~물결표시(tilde)~~를 사용    
+취소선은 ~~물결표시(tilde)~~를 사용   
+
+
+8. images
+
+![Street](그림1.jpg "Oxford")
+
+- example
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
