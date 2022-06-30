@@ -74,16 +74,24 @@ function MyComponent(props) {
 
 export default MyComponent;
 ```
+
 5. draw line
 -------------
+
 * * *
+
 ***
+
 *****
+
 - - -
+
 ----------------
+
 
 6. Link
 -------
+
 Google Link: [google][googlelink]
 
 [googlelink]: https://www.google.com/ "google"
