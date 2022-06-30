@@ -56,6 +56,7 @@ class Car {
 }
 </code>
 </pre>
+
 4.1
 ---
 import React from 'react';
@@ -71,13 +72,11 @@ function MyComponent(props) {
 	return <div>Foo</div>;
 
 	}
-
 export default MyComponent;
 ```
 
 5. draw line
 -------------
-
 * * *
 
 ***
@@ -91,7 +90,11 @@ export default MyComponent;
 
 6. Link
 -------
-
 Google Link: [google][googlelink]
 
 [googlelink]: https://www.google.com/ "google"
+
+
+6.1 link
+
+google homepage : https://www.google.com/
