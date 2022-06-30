@@ -101,3 +101,13 @@ Google Link: [google][googlelink]
 
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+<img src="그림1.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="그림1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+
+9. 표
+
+| 학과 | 학번 | 이름 |
+| ---| :---: | ---: |
+| '컴퓨터공학과' | 20OOOO19 | 'OOO' |
