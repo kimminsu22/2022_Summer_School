@@ -95,7 +95,7 @@ Google Link: [google][googlelink]
 
 8. images
 
-![Street](그림1.jpg "Oxford")
+![Street](https://github.com/kimminsu22/2022_Summer_School/blob/main/%EA%B7%B8%EB%A6%BC1.jpg "그림1")
 
 - example
 
