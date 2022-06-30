@@ -13,3 +13,19 @@
 > This is a first blockqute.
 >	> This is a second blockqute.
 >	>	> This is a third blockqute.
+
+3. List
+------
+*순서가 있는 목록
+1. 첫번째 목록
+	- 순서가 없는 목록
+	- 순서가 없는 목록
+1. 두번째 목록
+1. 세번째 목록
+
+*순서가 없는 목록
+	- 글머리 기호 : *,+,- 사용
+*1st Stage
+ - 2nd Stage
+  +3rd Stage
+    *4th Stage
