@@ -24,13 +24,22 @@
 1. 세번째 목록
 
 *순서가 없는 목록 
+   
 	- 글머리 기호 : *,+,- 사용
 * Blue 
- * Green-1 
+
+ * Green
+
   * Red
+
 + Blue 
+     
  + Green 
+
   + Red 
+
 - Blue 
+
  - Green 
+
   - Red 
