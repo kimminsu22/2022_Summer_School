@@ -25,7 +25,14 @@
 
 *순서가 없는 목록
 	- 글머리 기호 : *,+,- 사용
-*1st Stage
- - 2nd Stage
-  +3rd Stage
-    *4th Stage
+* Blue
+ * Green-1
+   *Red -1
+   *Red -2
+ * Red
++ Blue
+ + Green
+  + Red
+- Blue
+ - Green
+  - Red
